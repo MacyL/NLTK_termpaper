@@ -8,6 +8,10 @@ import re
 import sys, getopt
 import pickle
 
+###############
+# Task : calculate the digits. 
+###############
+
 def crawler(argv):
 	singer=''
 	song=''
