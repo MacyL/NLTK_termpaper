@@ -110,13 +110,7 @@ if __name__ == "__main__":
 		df.write('Noun variation:{0}'.format(cTTRList[0])+'\n')
 		df.write('Verb variation:{0}'.format(VBTTR)+'\n')
 		df.close()
-	#print('one gram TTR:{0}'.format(onegramTTR))
-	#print('Bigram TTR:{0}'.format(twogramTTR))
-	#print('Top 30 Noun')
-	#print(tFrequencyDist(tags,'NN'))
-	#print('Top 30 Verb')
-	#print(tFrequencyDist(tags,'VBP'))
-	#print(tFrequencyDist(tags,'VBD'))
+
 		
 	
 	
