@@ -4,6 +4,9 @@ import pickle
 import pandas as pd
 import re
 
+#########
+# task: most common words
+#########
 monogramlist=[]
 bigramlist=[]
 trigramlist=[]
