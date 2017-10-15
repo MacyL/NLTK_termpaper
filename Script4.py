@@ -3,6 +3,9 @@ from nltk import *
 import sys, re
 from nltk.corpus import stopwords
 
+###########
+# task : calculate the function words.
+##########
 def NLTKfunctionwords(tokenlist,value):
 	stop=stopwords.words('english')
 	# we need to create a new tokenlist.  
